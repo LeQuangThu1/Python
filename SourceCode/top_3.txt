@@ -1,0 +1,876 @@
+Top 3 cầu thủ có Matches Played cao nhất:
+          Name  Matches Played
+    Alex Iwobi              35
+Anthony Elanga              35
+    Bernd Leno              35
+
+Top 3 cầu thủ có Matches Played thấp nhất:
+          Name  Matches Played
+Altay Bayındır               2
+  Ayden Heaven               2
+ Billy Gilmour               2
+
+Top 3 cầu thủ có Starts cao nhất:
+           Name  Starts
+     Bernd Leno      35
+Bruno Guimarães      35
+   Bryan Mbeumo      35
+
+Top 3 cầu thủ có Starts thấp nhất:
+         Name  Starts
+Ali Al Hamadi       0
+       Antony       0
+ Ben Chilwell       0
+
+Top 3 cầu thủ có Minutes cao nhất:
+          Name  Minutes
+    Bernd Leno   3150.0
+    David Raya   3150.0
+Dean Henderson   3150.0
+
+Top 3 cầu thủ có Minutes thấp nhất:
+                Name  Minutes
+        Ayden Heaven     95.0
+Jahmai Simpson-Pusey     96.0
+       Billy Gilmour     98.0
+
+Top 3 cầu thủ có Goals cao nhất:
+          Name  Goals
+ Mohamed Salah     28
+Alexander Isak     23
+Erling Haaland     21
+
+Top 3 cầu thủ có Goals thấp nhất:
+              Name  Goals
+   Aaron Cresswell      0
+    Aaron Ramsdale      0
+Abdukodir Khusanov      0
+
+Top 3 cầu thủ có Assists cao nhất:
+            Name  Assists
+   Mohamed Salah       18
+    Jacob Murphy       11
+Antonee Robinson       10
+
+Top 3 cầu thủ có Assists thấp nhất:
+              Name  Assists
+   Aaron Cresswell        0
+    Aaron Ramsdale        0
+Abdukodir Khusanov        0
+
+Top 3 cầu thủ có Yellow Cards cao nhất:
+              Name  Yellow Cards
+        Saša Lukić            12
+Morgan Gibbs-White            11
+       Will Hughes            11
+
+Top 3 cầu thủ có Yellow Cards thấp nhất:
+                 Name  Yellow Cards
+Abdul Fatawu Issahaku             0
+         Adam Webster             0
+      Albert Grønbaek             0
+
+Top 3 cầu thủ có Red Cards cao nhất:
+              Name  Red Cards
+   Bruno Fernandes          2
+     Jack Stephens          2
+Myles Lewis-Skelly          2
+
+Top 3 cầu thủ có Red Cards thấp nhất:
+             Name  Red Cards
+  Aaron Cresswell          0
+   Aaron Ramsdale          0
+Aaron Wan-Bissaka          0
+
+Top 3 cầu thủ có xG cao nhất:
+          Name   xG
+ Mohamed Salah 24.0
+Erling Haaland 20.8
+Alexander Isak 19.9
+
+Top 3 cầu thủ có xG thấp nhất:
+              Name  xG
+    Aaron Ramsdale 0.0
+Abdukodir Khusanov 0.0
+      Adam Webster 0.0
+
+Top 3 cầu thủ có xAG cao nhất:
+         Name  xAG
+Mohamed Salah 13.2
+  Cole Palmer 10.0
+Son Heung-min  8.2
+
+Top 3 cầu thủ có xAG thấp nhất:
+           Name  xAG
+ Aaron Ramsdale  0.0
+Albert Grønbaek  0.0
+  Alex McCarthy  0.0
+
+Top 3 cầu thủ có PrgC cao nhất:
+         Name  PrgC
+  Jeremy Doku   189
+Mohamed Salah   143
+ Noni Madueke   142
+
+Top 3 cầu thủ có PrgC thấp nhất:
+          Name  PrgC
+Aaron Ramsdale     0
+ Alex McCarthy     0
+   Alex Palmer     0
+
+Top 3 cầu thủ có PrgP_x cao nhất:
+           Name  PrgP_x
+Bruno Fernandes     281
+ Joško Gvardiol     251
+Bruno Guimarães     247
+
+Top 3 cầu thủ có PrgP_x thấp nhất:
+          Name  PrgP_x
+Aaron Ramsdale       0
+ Alex McCarthy       0
+       Alisson       0
+
+Top 3 cầu thủ có PrgR_x cao nhất:
+              Name  PrgR_x
+     Mohamed Salah     440
+      Bryan Mbeumo     319
+Alejandro Garnacho     281
+
+Top 3 cầu thủ có PrgR_x thấp nhất:
+          Name  PrgR_x
+Aaron Ramsdale       0
+ Alex McCarthy       0
+   Alex Palmer       0
+
+Top 3 cầu thủ có Goals per 90 cao nhất:
+         Name  Goals per 90
+  Jáder Durán          0.99
+Donyell Malen          0.92
+ James Mcatee          0.89
+
+Top 3 cầu thủ có Goals per 90 thấp nhất:
+              Name  Goals per 90
+   Aaron Cresswell           0.0
+    Aaron Ramsdale           0.0
+Abdukodir Khusanov           0.0
+
+Top 3 cầu thủ có Assists per 90 cao nhất:
+          Name  Assists per 90
+Tyrique George            0.87
+    Danny Ings            0.63
+   Bukayo Saka            0.58
+
+Top 3 cầu thủ có Assists per 90 thấp nhất:
+              Name  Assists per 90
+   Aaron Cresswell             0.0
+    Aaron Ramsdale             0.0
+Abdukodir Khusanov             0.0
+
+Top 3 cầu thủ có xG per 90 cao nhất:
+          Name  xG per 90
+  James Mcatee       0.83
+Erling Haaland       0.76
+    Danny Ings       0.72
+
+Top 3 cầu thủ có xG per 90 thấp nhất:
+              Name  xG per 90
+    Aaron Ramsdale        0.0
+Abdukodir Khusanov        0.0
+      Adam Webster        0.0
+
+Top 3 cầu thủ có xAG per 90 cao nhất:
+           Name  xAG per 90
+ Tyrique George        0.63
+Mykhailo Mudryk        0.58
+Luis Sinisterra        0.54
+
+Top 3 cầu thủ có xAG per 90 thấp nhất:
+          Name  xAG per 90
+Aaron Ramsdale         0.0
+ Alex McCarthy         0.0
+   Alex Palmer         0.0
+
+Top 3 cầu thủ có Goals against per 90 cao nhất:
+            Name  Goals against per 90
+  Altay Bayındır                  4.00
+      Danny Ward                  4.00
+Christian Walton                  2.67
+
+Top 3 cầu thủ có Goals against per 90 thấp nhất:
+        Name  Goals against per 90
+Jason Steele                  0.50
+  David Raya                  0.89
+     Alisson                  0.92
+
+Top 3 cầu thủ có Save% cao nhất:
+          Name  Save%
+          Neto   84.6
+  Mark Travers   80.0
+Robert Sánchez   76.3
+
+Top 3 cầu thủ có Save% thấp nhất:
+                   Name  Save%
+         Altay Bayındır   33.3
+             Danny Ward   40.0
+Hákon Rafn Valdimarsson   50.0
+
+Top 3 cầu thủ có Clean Sheets % cao nhất:
+                   Name  Clean Sheets %
+Hákon Rafn Valdimarsson           100.0
+            Robin Olsen           100.0
+           Jason Steele            50.0
+
+Top 3 cầu thủ có Clean Sheets % thấp nhất:
+          Name  Clean Sheets %
+ Alex McCarthy             0.0
+   Alex Palmer             0.0
+Altay Bayındır             0.0
+
+Top 3 cầu thủ có Penalty Save % cao nhất:
+             Name  Penalty Save %
+Caoimhín Kelleher           100.0
+  Jordan Pickford           100.0
+   Dean Henderson            50.0
+
+Top 3 cầu thủ có Penalty Save % thấp nhất:
+         Name  Penalty Save %
+Alex McCarthy             0.0
+  Alex Palmer             0.0
+      Alisson             0.0
+
+Top 3 cầu thủ có Shoots on target percentage cao nhất:
+          Name  Shoots on target percentage
+  Adam Webster                        100.0
+   Archie Gray                        100.0
+Carlos Alcaraz                        100.0
+
+Top 3 cầu thủ có Shoots on target percentage thấp nhất:
+              Name  Shoots on target percentage
+   Aaron Cresswell                          0.0
+Abdukodir Khusanov                          0.0
+      Adam Lallana                          0.0
+
+Top 3 cầu thủ có Shoot on target per 90 cao nhất:
+           Name  Shoot on target per 90
+ Carlos Alcaraz                    9.00
+  Donyell Malen                    2.76
+Luis Sinisterra                    2.29
+
+Top 3 cầu thủ có Shoot on target per 90 thấp nhất:
+              Name  Shoot on target per 90
+   Aaron Cresswell                     0.0
+    Aaron Ramsdale                     0.0
+Abdukodir Khusanov                     0.0
+
+Top 3 cầu thủ có Goals per shot cao nhất:
+              Name  Goals per shot
+       John Stones             1.0
+Myles Lewis-Skelly             0.5
+    Hwang Hee-chan             0.4
+
+Top 3 cầu thủ có Goals per shot thấp nhất:
+                 Name  Goals per shot
+      Aaron Cresswell             0.0
+   Abdukodir Khusanov             0.0
+Abdul Fatawu Issahaku             0.0
+
+Top 3 cầu thủ có Average shoot distance cao nhất:
+            Name  Average shoot distance
+ Ibrahim Sangaré                    32.0
+Emmanuel Agbadou                    31.8
+     Ryan Fraser                    31.6
+
+Top 3 cầu thủ có Average shoot distance thấp nhất:
+          Name  Average shoot distance
+Kieran Tierney                     2.6
+  Harry Clarke                     4.5
+   John Stones                     5.1
+
+Top 3 cầu thủ có Pass completed cao nhất:
+           Name  Pass completed
+Virgil van Dijk            2543
+ Joško Gvardiol            2321
+ William Saliba            2320
+
+Top 3 cầu thủ có Pass completed thấp nhất:
+         Name  Pass completed
+ Reiss Nelson               0
+  Jordan Ayew               8
+William Osula              11
+
+Top 3 cầu thủ có Pass completion cao nhất:
+          Name  Pass completion
+Carlos Alcaraz            100.0
+William Saliba             94.2
+ Manuel Akanji             93.9
+
+Top 3 cầu thủ có Pass completion thấp nhất:
+          Name  Pass completion
+     Matz Sels             51.1
+Altay Bayındır             55.5
+  George Hirst             55.8
+
+Top 3 cầu thủ có Progressive passing distance cao nhất:
+           Name  Progressive passing distance
+Virgil van Dijk                         46352
+   Levi Colwill                         40277
+ William Saliba                         39927
+
+Top 3 cầu thủ có Progressive passing distance thấp nhất:
+           Name  Progressive passing distance
+   Reiss Nelson                             0
+  William Osula                           126
+Albert Grønbaek                           135
+
+Top 3 cầu thủ có Short pass completion cao nhất:
+          Name  Short pass completion
+Altay Bayındır                  100.0
+Antonín Kinský                  100.0
+Arijanet Muric                  100.0
+
+Top 3 cầu thủ có Short pass completion thấp nhất:
+         Name  Short pass completion
+William Osula                   61.5
+ Paul Onuachu                   62.9
+ George Hirst                   66.7
+
+Top 3 cầu thủ có Medium pass completion cao nhất:
+             Name  Medium pass completion
+      Alex Palmer                   100.0
+Caoimhín Kelleher                   100.0
+   Carlos Alcaraz                   100.0
+
+Top 3 cầu thủ có Medium pass completion thấp nhất:
+           Name  Medium pass completion
+Albert Grønbaek                    50.0
+           Beto                    50.0
+   George Hirst                    50.0
+
+Top 3 cầu thủ có Long pass completion cao nhất:
+          Name  Long pass completion
+   Andy Irving                 100.0
+        Antony                 100.0
+Carlos Alcaraz                 100.0
+
+Top 3 cầu thủ có Long pass completion thấp nhất:
+          Name  Long pass completion
+     Enes Ünal                   0.0
+  Ross Stewart                   0.0
+Tyrique George                   0.0
+
+Top 3 cầu thủ có Key passes cao nhất:
+           Name  Key passes
+Bruno Fernandes          84
+    Cole Palmer          82
+  Mohamed Salah          82
+
+Top 3 cầu thủ có Key passes thấp nhất:
+           Name  Key passes
+ Aaron Ramsdale           0
+  Alex McCarthy           0
+Alphonse Areola           0
+
+Top 3 cầu thủ có Pass in to final third cao nhất:
+           Name  Pass in to final third
+Virgil van Dijk                     269
+ Joško Gvardiol                     237
+Youri Tielemans                     228
+
+Top 3 cầu thủ có Pass in to final third thấp nhất:
+            Name  Pass in to final third
+   Ali Al Hamadi                       0
+Chiedozie Ogbene                       0
+    Jason Steele                       0
+
+Top 3 cầu thủ có Pass in to penalty are cao nhất:
+           Name  Pass in to penalty are
+  Mohamed Salah                      86
+Martin Ødegaard                      81
+     Alex Iwobi                      78
+
+Top 3 cầu thủ có Pass in to penalty are thấp nhất:
+              Name  Pass in to penalty are
+Abdukodir Khusanov                       0
+   Albert Grønbaek                       0
+     Alex McCarthy                       0
+
+Top 3 cầu thủ có CrsPA cao nhất:
+            Name  CrsPA
+Antonee Robinson     28
+     Pedro Porro     26
+    Milos Kerkez     23
+
+Top 3 cầu thủ có CrsPA thấp nhất:
+              Name  CrsPA
+    Aaron Ramsdale      0
+Abdoulaye Doucouré      0
+Abdukodir Khusanov      0
+
+Top 3 cầu thủ có PrgP_y cao nhất:
+           Name  PrgP_y
+Bruno Fernandes     281
+ Joško Gvardiol     251
+Bruno Guimarães     247
+
+Top 3 cầu thủ có PrgP_y thấp nhất:
+          Name  PrgP_y
+Aaron Ramsdale       0
+ Alex McCarthy       0
+       Alisson       0
+
+Top 3 cầu thủ có SCA cao nhất:
+          Name  SCA
+Carlos Alcaraz 9.00
+Philip Billing 7.83
+Luis Guilherme 6.52
+
+Top 3 cầu thủ có SCA thấp nhất:
+          Name  SCA
+ Alex McCarthy  0.0
+Altay Bayındır  0.0
+       Ben Mee  0.0
+
+Top 3 cầu thủ có SCA90 cao nhất:
+           Name  SCA90
+    Cole Palmer    126
+Bruno Fernandes    120
+  Mohamed Salah    114
+
+Top 3 cầu thủ có SCA90 thấp nhất:
+          Name  SCA90
+ Alex McCarthy      0
+Altay Bayındır      0
+Arijanet Muric      0
+
+Top 3 cầu thủ có GCA cao nhất:
+       Name  GCA
+Bukayo Saka 1.29
+Solly March 1.08
+Amad Diallo 0.93
+
+Top 3 cầu thủ có GCA thấp nhất:
+              Name  GCA
+   Aaron Cresswell  0.0
+    Aaron Ramsdale  0.0
+Abdukodir Khusanov  0.0
+
+Top 3 cầu thủ có GCA90 cao nhất:
+            Name  GCA90
+   Mohamed Salah     19
+ Bruno Guimarães     16
+Mikkel Damsgaard     15
+
+Top 3 cầu thủ có GCA90 thấp nhất:
+              Name  GCA90
+   Aaron Cresswell      0
+    Aaron Ramsdale      0
+Abdukodir Khusanov      0
+
+Top 3 cầu thủ có Tkl cao nhất:
+              Name  Tkl
+Idrissa Gana Gueye  124
+      Daniel Muñoz  113
+        João Gomes  105
+
+Top 3 cầu thủ có Tkl thấp nhất:
+          Name  Tkl
+Aaron Ramsdale    0
+ Alex McCarthy    0
+   Alex Palmer    0
+
+Top 3 cầu thủ có TklW cao nhất:
+              Name  TklW
+      Daniel Muñoz    74
+Idrissa Gana Gueye    74
+    Moisés Caicedo    64
+
+Top 3 cầu thủ có TklW thấp nhất:
+          Name  TklW
+Aaron Ramsdale     0
+ Alex McCarthy     0
+   Alex Palmer     0
+
+Top 3 cầu thủ có Att cao nhất:
+                  Name  Att
+   Alexis Mac Allister  104
+Trent Alexander-Arnold  103
+            João Gomes  102
+
+Top 3 cầu thủ có Att thấp nhất:
+         Name  Att
+Alex McCarthy    0
+  Alex Palmer    0
+Armando Broja    0
+
+Top 3 cầu thủ có Lost_x cao nhất:
+                  Name  Lost_x
+            João Gomes      60
+       Elliot Anderson      57
+Trent Alexander-Arnold      55
+
+Top 3 cầu thủ có Lost_x thấp nhất:
+          Name  Lost_x
+ Alex McCarthy       0
+   Alex Palmer       0
+Antonín Kinský       0
+
+Top 3 cầu thủ có Blocks cao nhất:
+           Name  Blocks
+ Nathan Collins      71
+        Murillo      67
+Tyrick Mitchell      62
+
+Top 3 cầu thủ có Blocks thấp nhất:
+          Name  Blocks
+Aaron Ramsdale       0
+ Alex McCarthy       0
+   Alex Palmer       0
+
+Top 3 cầu thủ có Sh cao nhất:
+          Name  Sh
+Nathan Collins  51
+   Dara O'Shea  47
+       Murillo  44
+
+Top 3 cầu thủ có Sh thấp nhất:
+                 Name  Sh
+       Aaron Ramsdale   0
+Abdul Fatawu Issahaku   0
+         Adama Traoré   0
+
+Top 3 cầu thủ có Pass cao nhất:
+               Name  Pass
+Alexis Mac Allister    55
+    Antoine Semenyo    51
+    Tyrick Mitchell    50
+
+Top 3 cầu thủ có Pass thấp nhất:
+           Name  Pass
+ Aaron Ramsdale     0
+Albert Grønbaek     0
+  Alex McCarthy     0
+
+Top 3 cầu thủ có Int cao nhất:
+             Name  Int
+Aaron Wan-Bissaka   60
+ Antonee Robinson   57
+ Ryan Gravenberch   57
+
+Top 3 cầu thủ có Int thấp nhất:
+           Name  Int
+Albert Grønbaek    0
+  Alex McCarthy    0
+    Alex Palmer    0
+
+Top 3 cầu thủ có Touches cao nhất:
+           Name  Touches
+Virgil van Dijk     3125
+ Joško Gvardiol     2903
+   Levi Colwill     2728
+
+Top 3 cầu thủ có Touches thấp nhất:
+          Name  Touches
+  Reiss Nelson        2
+   Jordan Ayew       12
+Carlos Alcaraz       17
+
+Top 3 cầu thủ có Def pen cao nhất:
+           Name  Def pen
+   Mark Flekken     1338
+     Bernd Leno     1097
+Bart Verbruggen     1034
+
+Top 3 cầu thủ có Def pen thấp nhất:
+          Name  Def pen
+Carlos Alcaraz        0
+   Emi Buendía        0
+   Jordan Ayew        0
+
+Top 3 cầu thủ có Def 3rd cao nhất:
+           Name  Def 3rd
+   Mark Flekken     1660
+Jordan Pickford     1494
+     Bernd Leno     1354
+
+Top 3 cầu thủ có Def 3rd thấp nhất:
+          Name  Def 3rd
+   Jordan Ayew        0
+Carlos Alcaraz        1
+  Reiss Nelson        1
+
+Top 3 cầu thủ có Mid 3rd cao nhất:
+           Name  Mid 3rd
+Virgil van Dijk     1719
+ William Saliba     1519
+ Joško Gvardiol     1474
+
+Top 3 cầu thủ có Mid 3rd thấp nhất:
+          Name  Mid 3rd
+ Alex McCarthy        0
+    Danny Ward        0
+Fraser Forster        0
+
+Top 3 cầu thủ có Att 3rd cao nhất:
+           Name  Att 3rd
+  Mohamed Salah     1023
+   Bryan Mbeumo      913
+Bruno Fernandes      888
+
+Top 3 cầu thủ có Att 3rd thấp nhất:
+          Name  Att 3rd
+Aaron Ramsdale        0
+ Alex McCarthy        0
+   Alex Palmer        0
+
+Top 3 cầu thủ có Att pen cao nhất:
+           Name  Att pen
+  Mohamed Salah      327
+ Alexander Isak      178
+Antoine Semenyo      176
+
+Top 3 cầu thủ có Att pen thấp nhất:
+          Name  Att pen
+Aaron Ramsdale        0
+ Alex McCarthy        0
+   Alex Palmer        0
+
+Top 3 cầu thủ có att cao nhất:
+          Name  att
+Mohammed Kudus  194
+   Jeremy Doku  185
+ Morgan Rogers  153
+
+Top 3 cầu thủ có att thấp nhất:
+          Name  att
+Aaron Ramsdale    0
+ Alex McCarthy    0
+   Alex Palmer    0
+
+Top 3 cầu thủ có Succ% cao nhất:
+          Name  Succ%
+   Jeremy Doku    102
+Mohammed Kudus     87
+ Morgan Rogers     65
+
+Top 3 cầu thủ có Succ% thấp nhất:
+              Name  Succ%
+    Aaron Ramsdale      0
+Abdukodir Khusanov      0
+   Albert Grønbaek      0
+
+Top 3 cầu thủ có Tkld% cao nhất:
+               Name  Tkld%
+ Abdukodir Khusanov  100.0
+    Albert Grønbaek  100.0
+Armel Bella Kotchap  100.0
+
+Top 3 cầu thủ có Tkld% thấp nhất:
+        Name  Tkld%
+     Alisson    0.0
+ Andy Irving    0.0
+Ayden Heaven    0.0
+
+Top 3 cầu thủ có Carries cao nhất:
+           Name  Carries
+ Joško Gvardiol     1886
+Virgil van Dijk     1746
+ William Saliba     1675
+
+Top 3 cầu thủ có Carries thấp nhất:
+          Name  Carries
+  Reiss Nelson        1
+   Jordan Ayew        6
+Carlos Alcaraz       12
+
+Top 3 cầu thủ có ProDist cao nhất:
+              Name  ProDist
+Jan Paul van Hecke     6740
+    Joško Gvardiol     5715
+        Rúben Dias     5295
+
+Top 3 cầu thủ có ProDist thấp nhất:
+           Name  ProDist
+   Reiss Nelson        4
+    Jordan Ayew       12
+Albert Grønbaek       15
+
+Top 3 cầu thủ có ProgC cao nhất:
+         Name  ProgC
+  Jeremy Doku    189
+Mohamed Salah    143
+ Noni Madueke    142
+
+Top 3 cầu thủ có ProgC thấp nhất:
+          Name  ProgC
+Aaron Ramsdale      0
+ Alex McCarthy      0
+   Alex Palmer      0
+
+Top 3 cầu thủ có 1/3 cao nhất:
+          Name  1/3
+    Alex Iwobi  102
+Joško Gvardiol   92
+   Jeremy Doku   88
+
+Top 3 cầu thủ có 1/3 thấp nhất:
+           Name  1/3
+ Aaron Ramsdale    0
+Albert Grønbaek    0
+  Alex McCarthy    0
+
+Top 3 cầu thủ có CPA cao nhất:
+         Name  CPA
+Mohamed Salah  115
+  Jeremy Doku   90
+ Noni Madueke   87
+
+Top 3 cầu thủ có CPA thấp nhất:
+              Name  CPA
+   Aaron Cresswell    0
+    Aaron Ramsdale    0
+Abdukodir Khusanov    0
+
+Top 3 cầu thủ có Mis cao nhất:
+         Name  Mis
+Mohamed Salah  109
+Morgan Rogers  104
+ Bryan Mbeumo   99
+
+Top 3 cầu thủ có Mis thấp nhất:
+           Name  Mis
+  Alex McCarthy    0
+Alphonse Areola    0
+ Altay Bayındır    0
+
+Top 3 cầu thủ có Dis cao nhất:
+            Name  Dis
+  Mohammed Kudus   89
+ Bruno Guimarães   73
+Dejan Kulusevski   73
+
+Top 3 cầu thủ có Dis thấp nhất:
+           Name  Dis
+Aaron Cresswell    0
+ Aaron Ramsdale    0
+  Alex McCarthy    0
+
+Top 3 cầu thủ có Rec cao nhất:
+           Name  Rec
+Virgil van Dijk 2153
+ Joško Gvardiol 2132
+ William Saliba 2056
+
+Top 3 cầu thủ có Rec thấp nhất:
+          Name  Rec
+  Reiss Nelson    1
+   Jordan Ayew    9
+Carlos Alcaraz   12
+
+Top 3 cầu thủ có PrgR_y cao nhất:
+              Name  PrgR_y
+     Mohamed Salah     440
+      Bryan Mbeumo     319
+Alejandro Garnacho     281
+
+Top 3 cầu thủ có PrgR_y thấp nhất:
+          Name  PrgR_y
+Aaron Ramsdale       0
+ Alex McCarthy       0
+   Alex Palmer       0
+
+Top 3 cầu thủ có Fls cao nhất:
+           Name  Fls
+     João Gomes   67
+     Liam Delap   67
+Antoine Semenyo   66
+
+Top 3 cầu thủ có Fls thấp nhất:
+           Name  Fls
+Albert Grønbaek    0
+  Alex McCarthy    0
+        Alisson    0
+
+Top 3 cầu thủ có Fld cao nhất:
+           Name  Fld
+Bruno Guimarães  100
+  Matheus Cunha   69
+    John McGinn   67
+
+Top 3 cầu thủ có Fld thấp nhất:
+           Name  Fld
+Alphonse Areola    0
+ Altay Bayındır    0
+  Andrés García    0
+
+Top 3 cầu thủ có Off cao nhất:
+                 Name  Off
+Dominic Calvert-Lewin   27
+           Chris Wood   26
+          Jamie Vardy   25
+
+Top 3 cầu thủ có Off thấp nhất:
+              Name  Off
+   Aaron Cresswell    0
+    Aaron Ramsdale    0
+Abdukodir Khusanov    0
+
+Top 3 cầu thủ có Crs cao nhất:
+           Name  Crs
+    Pedro Porro  191
+   Bryan Mbeumo  182
+Bruno Fernandes  172
+
+Top 3 cầu thủ có Crs thấp nhất:
+          Name  Crs
+Aaron Ramsdale    0
+ Alex McCarthy    0
+   Alex Palmer    0
+
+Top 3 cầu thủ có Recov cao nhất:
+           Name  Recov
+ Moisés Caicedo    203
+Elliot Anderson    197
+Bruno Fernandes    192
+
+Top 3 cầu thủ có Recov thấp nhất:
+          Name  Recov
+Altay Bayındır      0
+  Reiss Nelson      0
+    Danny Ward      1
+
+Top 3 cầu thủ có Won cao nhất:
+           Name  Won
+       Dan Burn  134
+ Nathan Collins  112
+Virgil van Dijk  111
+
+Top 3 cầu thủ có Won thấp nhất:
+         Name  Won
+Andrés García    0
+       Antony    0
+Billy Gilmour    0
+
+Top 3 cầu thủ có Lost_y cao nhất:
+                Name  Lost_y
+          Chris Wood     129
+Jean-Philippe Mateta      99
+Jørgen Strand Larsen      96
+
+Top 3 cầu thủ có Lost_y thấp nhất:
+           Name  Lost_y
+ Aaron Ramsdale       0
+Albert Grønbaek       0
+  Alex McCarthy       0
+
+Top 3 cầu thủ có Won% cao nhất:
+           Name  Won%
+ Aaron Ramsdale 100.0
+Albert Grønbaek 100.0
+  Alex McCarthy 100.0
+
+Top 3 cầu thủ có Won% thấp nhất:
+         Name  Won%
+Andrés García   0.0
+       Antony   0.0
+  Emi Buendía   0.0
+
